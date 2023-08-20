@@ -2,14 +2,14 @@
 
     -->ssh [username]@[hostname_or_IP_address]
 
-// Install python git and cron
-
-    --> sudo apt update && sudo apt install -y python3 git cron python3-pip install -y libgl1-mesa-glx
-
 //Clone the repository
 
     --> git clone https://github.com/Amanghvxh/socialMediaAutomation.git
     --> cd socialMediaAutomation
+
+// Install python git and cron
+
+    --> sudo apt update && sudo apt install -y python3 git cron python3-pip libgl1-mesa-glx
 
 //Install all the requirements
 
