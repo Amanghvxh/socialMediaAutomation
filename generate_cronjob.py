@@ -7,8 +7,8 @@ def add_cron_job():
     python_path = subprocess.getoutput('which python3').strip()
 
     # Assuming the generate_time_file.py is in the same directory as this script
-    script_path = os.path.join(os.getcwd(), 'generate_time_file.py')
-    
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    script_path = os.path.join(script_dir, 'generate_time_file.py')    
     # Escape spaces in the path
     script_path = script_path.replace(' ', '\ ')
 

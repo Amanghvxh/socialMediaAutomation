@@ -6,7 +6,8 @@ from PIL import ImageFont, ImageDraw, Image
 import numpy as np
 import textwrap
 
-image_names = [f'./images/image{i}.jpg' for i in range(1, 10)]
+script_dir = os.path.dirname(os.path.abspath(__file__))
+image_names = [os.path.join(script_dir, 'images', f'image{i}.jpg') for i in range(1, 10)]
 used_images = []
 
 def select_image():
@@ -29,7 +30,8 @@ def apply_gaussian_blur(image_path):
 
 
 def write_quote(image, quote, author):
-    custom_font_path = './fonts/LoveYaLikeASister-Regular.ttf'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    custom_font_path = os.path.join(script_dir, 'fonts', 'LoveYaLikeASister-Regular.ttf')
     pil_image = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
     draw = ImageDraw.Draw(pil_image)
     max_width = image.shape[1] - 20
@@ -76,29 +78,39 @@ def write_quote(image, quote, author):
 
 
 def update_json_files(selected_quote):
-    with open('./utils/pending.json', 'r') as file:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    pending_path = os.path.join(script_dir, 'utils', 'pending.json')
+    with open(pending_path, 'r') as file:
         pending_quotes = json.load(file)['pending_quotes']
         pending_quotes.remove(selected_quote)
 
-    with open('./utils/pending.json', 'w') as file:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    pending_path = os.path.join(script_dir, 'utils', 'pending.json')
+    with open(pending_path, 'w') as file:
         json.dump({'pending_quotes': pending_quotes}, file)
 
     try:
-        with open('./utils/completed.json', 'r') as file:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        completed_path = os.path.join(script_dir, 'utils', 'completed.json')
+        with open(completed_path, 'r') as file:
             completed_quotes = json.load(file)['completed_quotes']
     except:
         completed_quotes = []
 
     completed_quotes.append(selected_quote)
-
-    with open('./utils/completed.json', 'w') as file:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    completed_path = os.path.join(script_dir, 'utils', 'completed.json')
+    with open(completed_path, 'w') as file:
         json.dump({'completed_quotes': completed_quotes}, file)
 
 def main():
-    quoted_images_dir = './quoted_images'
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    quoted_images_dir = os.path.join(script_dir, 'quoted_images')
     os.makedirs(quoted_images_dir, exist_ok=True)
 
-    with open('./utils/pending.json', 'r') as file:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    pending_path = os.path.join(script_dir, 'utils', 'pending.json')
+    with open(pending_path, 'r') as file:
         quotes = json.load(file)['pending_quotes']
 
     selected_quote = random.choice(quotes)

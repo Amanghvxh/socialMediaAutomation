@@ -22,23 +22,24 @@ def schedule_cron_jobs(time_slots):
     # Get paths dynamically
     current_dir = os.getcwd()
     python_path = subprocess.getoutput('which python3').strip()
-    script_path = os.path.join(current_dir, 'main.py')
+    script_path = os.path.join(current_dir, 'main.py').replace(" ", " ")
 
     # Create new cron jobs for the generated times
     cron_jobs = []
     for time_slot in time_slots:
         hour, minute = time_slot.strftime("%H:%M").split(":")
-        cron_job = f"{minute} {hour} * * * {python_path} {script_path}"
+        cron_job = f'{minute} {hour} * * * "{python_path}" "{script_path}"'
         cron_jobs.append(cron_job)
 
     # Add the cron jobs
-    cron_jobs_str = '\n'.join(cron_jobs)
     with open('cronfile', 'w') as file:
-        file.write(cron_jobs_str)
+        for job in cron_jobs:
+            file.write(job + '\n')
     subprocess.run('crontab cronfile', shell=True)
     subprocess.run('rm cronfile', shell=True)
 
     print("Cron jobs scheduled.")
+
 
 if __name__ == "__main__":
     time_slots = generate_schedule()
