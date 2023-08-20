@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.egg
+
+
+
+# Operating systems
+*.DS_Store
+Thumbs.db
+
+bot
+bot/
+/bot
+.bot
+.bot/
