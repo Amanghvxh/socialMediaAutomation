@@ -13,4 +13,4 @@ def upload_image_to_instagram(image_path, description="Capturing the essence of 
 
     # Upload the image with the description
     cl.photo_upload(image_path, caption=description)
-
+ 
