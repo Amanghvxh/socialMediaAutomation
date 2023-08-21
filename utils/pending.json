@@ -1,1 +1,214 @@
-{"pending_quotes": [{"quote": "In their gaze, I found my forever.", "author": "L. Everhart", "key": false}, {"quote": "Love's first whisper etched in my heart.", "author": "E. Serenade", "key": false}, {"quote": "Distance is just a test for love's endurance.", "author": "R. Skylark", "key": false}, {"quote": "Eyes met, souls danced; love painted its masterpiece.", "author": "M. Aria", "key": false}, {"quote": "In your eyes, I found my home and my adventure.", "author": "J. Wanderlust", "key": false}, {"quote": "Love, where time stands still, and hearts speak fluently.", "author": "E. Timeless", "key": false}, {"quote": "Love's journey knows no map; our hearts pave the way.", "author": "S. Cartographer", "key": false}, {"quote": "A single glance, an eternity of feeling.", "author": "L. Sentiment", "key": false}, {"quote": "Love's symphony plays even across oceans.", "author": "O. Echo", "key": false}, {"quote": "Through every mile, love bridges the distance.", "author": "P. Connection", "key": false}, {"quote": "Love's authenticity shines brightest in separation.", "author": "W. Radiance", "key": false}, {"quote": "In every longing, love writes its own poetry.", "author": "F. Verses", "key": false}, {"quote": "Two souls entwined; distance is but a pause.", "author": "A. Interlude", "key": false}, {"quote": "Love's melody lingers, even in silence.", "author": "H. Serenade", "key": false}, {"quote": "From the first moment, love wrote our story.", "author": "T. Penumbra", "key": false}, {"quote": "In your eyes, I found my present and future.", "author": "G. Horizon", "key": false}, {"quote": "Love's artistry: brushstrokes of presence over absence.", "author": "Q. Canvas", "key": false}, {"quote": "In love's embrace, miles become whispers.", "author": "U. Whisperer", "key": false}, {"quote": "First love imprints like a promise in the heart.", "author": "V. Keepsake", "key": false}, {"quote": "Love, where the ordinary transforms into the extraordinary.", "author": "K. Enchantment", "key": false}]}
+{
+    "pending_quotes": [
+        {
+            "quote": "Love at first sight is the universe's way of saying there's magic left.",
+            "author": "Lila Hartwood",
+            "key": false
+        },
+        {
+            "quote": "True love isn't found; it's built, brick by brick, moment by moment.",
+            "author": "Ethan Wylde",
+            "key": false
+        },
+        {
+            "quote": "In the flash of a moment, love can change everything.",
+            "author": "Nolan Skye",
+            "key": false
+        },
+        {
+            "quote": "Love is the water that quenches life's thirst.",
+            "author": "Isla Rivers",
+            "key": false
+        },
+        {
+            "quote": "Love is the air we breathe, invisible but essential.",
+            "author": "Finn Gale",
+            "key": false
+        },
+        {
+            "quote": "Love is the wave, ever-changing yet constant.",
+            "author": "Sera Tide",
+            "key": false
+        },
+        {
+            "quote": "A ring is but metal; love is the promise it holds.",
+            "author": "Rhea Goldring",
+            "key": false
+        },
+        {
+            "quote": "Love at a distance is love tested by miles and strengthened by trust.",
+            "author": "Kai Horizon",
+            "key": false
+        },
+        {
+            "quote": "First love is the draft of the heart's novel, raw and unforgettable.",
+            "author": "Tessa Page",
+            "key": false
+        },
+        {
+            "quote": "True love is the compass that always points to home.",
+            "author": "Lily Northstar",
+            "key": false
+        },
+        {
+            "quote": "The flash of love is the spark that ignites the soul.",
+            "author": "Oscar Blaze",
+            "key": false
+        },
+        {
+            "quote": "Even in the cold of winter, love blooms like spring.",
+            "author": "Nina Bloomfield",
+            "key": false
+        },
+        {
+            "quote": "Love is the cry of joy in the silence of the night.",
+            "author": "Evan Echo",
+            "key": false
+        },
+        {
+            "quote": "Water may shape the earth, but love shapes the soul.",
+            "author": "Riley Brook",
+            "key": false
+        },
+        {
+            "quote": "The road to true love is never straight, but it's worth every turn.",
+            "author": "Bella Pathway",
+            "key": false
+        },
+        {
+            "quote": "Love is the cloud that carries dreams into reality.",
+            "author": "Mason Nimbus",
+            "key": false
+        },
+        {
+            "quote": "Love is the wave that never tires of reaching the shore.",
+            "author": "Zara Ocean",
+            "key": false
+        },
+        {
+            "quote": "A ring is a circle of love, unbroken and eternal.",
+            "author": "Theo Loop",
+            "key": false
+        },
+        {
+            "quote": "Distance in love is not a barrier, but a bridge.",
+            "author": "Avery Span",
+            "key": false
+        },
+        {
+            "quote": "Unconditional love is the fire that never goes out.",
+            "author": "Ronan Flame",
+            "key": false
+        },
+        {
+            "quote": "True love is the anchor in life's stormy seas.",
+            "author": "Elara Harbor",
+            "key": false
+        },
+        {
+            "quote": "In the flash of an eye, love can rewrite destiny.",
+            "author": "Ian Spark",
+            "key": false
+        },
+        {
+            "quote": "Love is the cry that echoes the heart's deepest desires.",
+            "author": "Max Reverie",
+            "key": false
+        },
+        {
+            "quote": "Water is to life, as love is to the soul.",
+            "author": "Sierra Lake",
+            "key": false
+        },
+        {
+            "quote": "Love is the air that lifts us above our troubles.",
+            "author": "Eli Summit",
+            "key": false
+        },
+        {
+            "quote": "Love is the cloud that paints the sky with dreams.",
+            "author": "Jude Celestial",
+            "key": false
+        },
+        {
+            "quote": "Love is the wave that dances to the moon's lullaby.",
+            "author": "Nora Lunar",
+            "key": false
+        },
+        {
+            "quote": "A ring symbolizes love's eternal embrace.",
+            "author": "Felix Circle",
+            "key": false
+        },
+        {
+            "quote": "Love's flash is the lightning that illuminates the soul.",
+            "author": "Zoe Bright",
+            "key": false
+        },
+        {
+            "quote": "Love is the cry of the soul, seeking its counterpart.",
+            "author": "Hazel Echoes",
+            "key": false
+        },
+        {
+            "quote": "Water nurtures the body, love nurtures the spirit.",
+            "author": "Kai Spring",
+            "key": false
+        },
+        {
+            "quote": "Love is the air that fuels the flames of passion.",
+            "author": "Lana Blaze",
+            "key": false
+        },
+        {
+            "quote": "The road to love is a journey of a thousand heartbeats.",
+            "author": "Owen Pulse",
+            "key": false
+        },
+        {
+            "quote": "Love is the cloud that cushions life's hardest falls.",
+            "author": "Ella Feather",
+            "key": false
+        },
+        {
+            "quote": "Love is the wave that knows no end.",
+            "author": "Sam Endless",
+            "key": false
+        },
+        {
+            "quote": "In a ring, love finds its eternal home.",
+            "author": "Ivy Eternity",
+            "key": false
+        },
+        {
+            "quote": "Distance is just a test to see how far love can travel.",
+            "author": "Leo Voyage",
+            "key": false
+        },
+        {
+            "quote": "First love is the dawn of emotions, bright and new.",
+            "author": "Daisy Sunrise",
+            "key": false
+        },
+        {
+            "quote": "Unconditional love is the light that never dims.",
+            "author": "Ray Luminous",
+            "key": false
+        },
+        {
+            "quote": "True love is the story that never needs an ending.",
+            "author": "Mia Tale",
+            "key": false
+        },
+        {
+            "quote": "In love's flash, eternity is found.",
+            "author": "Noah Infinity",
+            "key": false
+        },
+        {
+            "quote": "Love is the warmth in the heart of winter.",
+            "author": "Eve Snow",
+            "key": false
+        }
+    ]
+}
