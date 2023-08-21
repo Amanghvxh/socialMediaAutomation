@@ -1,0 +1,83 @@
+[
+    ["Love at first sight is the universe's way of saying there's magic left.", 
+"Lila Hartwood"],
+    ["First love is the whisper of the soul, echoing through time.", "Jasper 
+Elms"],
+    ["Unconditional love is the sun's warmth on the coldest day.", "Mira 
+Stonebridge"],
+    ["True love isn't found; it's built, brick by brick, moment by moment.", 
+"Ethan Wylde"],
+    ["Long distance love is the proof that love isn't just physical, it's 
+soulful.", "Cora Laine"],
+    ["In the flash of a moment, love can change everything.", "Nolan Skye"],
+    ["Even the coldest heart can be warmed by the touch of true love.", "Aria 
+North"],
+    ["Love is the tear that falls and the hand that wipes it away.", "Leo 
+Thorne"],
+    ["Love is the water that quenches life's thirst.", "Isla Rivers"],
+    ["Love is the air we breathe, invisible but essential.", "Finn Gale"],
+    ["The road to love is paved with patience and understanding.", "Lena 
+Crossway"],
+    ["Love is the cloud that shields us from life's harshest rays.", "Milo 
+Stratus"],
+    ["Love is the wave, ever-changing yet constant.", "Sera Tide"],
+    ["A ring is but metal; love is the promise it holds.", "Rhea Goldring"],
+    ["Love at a distance is love tested by miles and strengthened by trust.", 
+"Kai Horizon"],
+    ["First love is the draft of the heart's novel, raw and unforgettable.", 
+"Tessa Page"],
+    ["Unconditional love asks for nothing, yet gives everything.", "Dylan 
+Ember"],
+    ["True love is the compass that always points to home.", "Lily Northstar"],
+    ["The flash of love is the spark that ignites the soul.", "Oscar Blaze"],
+    ["Even in the cold of winter, love blooms like spring.", "Nina Bloomfield"],
+    ["Love is the cry of joy in the silence of the night.", "Evan Echo"],
+    ["Water may shape the earth, but love shapes the soul.", "Riley Brook"],
+    ["Love is the air that fills our lungs and gives life meaning.", "Caden 
+Breeze"],
+    ["The road to true love is never straight, but it's worth every turn.", 
+"Bella Pathway"],
+    ["Love is the cloud that carries dreams into reality.", "Mason Nimbus"],
+    ["Love is the wave that never tires of reaching the shore.", "Zara Ocean"],
+    ["A ring is a circle of love, unbroken and eternal.", "Theo Loop"],
+    ["Distance in love is not a barrier, but a bridge.", "Avery Span"],
+    ["First love is the melody that lingers in the heart's symphony.", "Gemma 
+Note"],
+    ["Unconditional love is the fire that never goes out.", "Ronan Flame"],
+    ["True love is the anchor in life's stormy seas.", "Elara Harbor"],
+    ["In the flash of an eye, love can rewrite destiny.", "Ian Spark"],
+    ["Love warms the coldest nights and brightens the darkest days.", "Luna 
+Ray"],
+    ["Love is the cry that echoes the heart's deepest desires.", "Max Reverie"],
+    ["Water is to life, as love is to the soul.", "Sierra Lake"],
+    ["Love is the air that lifts us above our troubles.", "Eli Summit"],
+    ["The road to love is filled with moments that become memories.", "Clara 
+Milestone"],
+    ["Love is the cloud that paints the sky with dreams.", "Jude Celestial"],
+    ["Love is the wave that dances to the moon's lullaby.", "Nora Lunar"],
+    ["A ring symbolizes love's eternal embrace.", "Felix Circle"],
+    ["Love knows no distance, for it travels heart to heart.", "Sophia 
+Journey"],
+    ["First love is the brushstroke that colors our love stories.", "Lucas 
+Artistry"],
+    ["Unconditional love is the star that shines brightest in the night.", "Ava 
+Stellar"],
+    ["True love is the map that leads to treasures of the heart.", "Ezra 
+Compass"],
+    ["Love's flash is the lightning that illuminates the soul.", "Zoe Bright"],
+    ["Love melts the coldest barriers and bridges the widest gaps.", "Miles 
+Bridge"],
+    ["Love is the cry of the soul, seeking its counterpart.", "Hazel Echoes"],
+    ["Water nurtures the body, love nurtures the spirit.", "Kai Spring"],
+    ["Love is the air that fuels the flames of passion.", "Lana Blaze"],
+    ["The road to love is a journey of a thousand heartbeats.", "Owen Pulse"],
+    ["Love is the cloud that cushions life's hardest falls.", "Ella Feather"],
+    ["Love is the wave that knows no end.", "Sam Endless"],
+    ["In a ring, love finds its eternal home.", "Ivy Eternity"],
+    ["Distance is just a test to see how far love can travel.", "Leo Voyage"],
+    ["First love is the dawn of emotions, bright and new.", "Daisy Sunrise"],
+    ["Unconditional love is the light that never dims.", "Ray Luminous"],
+    ["True love is the story that never needs an ending.", "Mia Tale"],
+    ["In love's flash, eternity is found.", "Noah Infinity"],
+    ["Love is the warmth in the heart of winter.", "Eve Snow"]
+]
